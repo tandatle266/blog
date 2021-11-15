@@ -1,0 +1,51 @@
+body {
+    background-color: lightblue !important;
+  }
+.container{
+  background-color: lightblue ;
+  box-shadow:none;  
+  }
+img {
+  width:250px;
+  height:150px;
+  margin:15px 30px 25px 0;
+   float:left;
+   border-radius: 15px;
+   
+}
+hr {
+  margin-left: 25%;
+  text-align: center;
+  width: 50%;
+}
+.tag-name{
+  color :honeydew;
+}
+.tag{
+  
+ 
+  margin-top: 6%;
+}
+.blog{
+    background-color: white ;
+    position: relative;
+    padding: 30px 30px 15px;
+    overflow: auto;
+    border-radius: 15px;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+}
+a {
+    text-decoration: none !important;
+  }
+
+ 
+.fixed-posi {
+  
+ 
+  width: 20%;
+  top: 20%;
+  margin-left: 54.68%;
+  height: 50%;
+  position:fixed;
+}
+
